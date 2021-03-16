@@ -129,3 +129,36 @@ C:\gr\old\MvvmTest\MvvmTest\WpfApp3\obj\Debug\MvvmTest.csproj.CoreCompileInputs.
 C:\gr\old\MvvmTest\MvvmTest\WpfApp3\obj\Debug\MvvmTest.csproj.CopyComplete
 C:\gr\old\MvvmTest\MvvmTest\WpfApp3\obj\Debug\MvvmTest.exe
 C:\gr\old\MvvmTest\MvvmTest\WpfApp3\obj\Debug\MvvmTest.pdb
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\MvvmTest.exe.config
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\MvvmTest.exe
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\MvvmTest.pdb
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\CommonServiceLocator.dll
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.dll
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Extras.dll
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Platform.dll
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\System.Windows.Interactivity.dll
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.pdb
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.xml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Extras.pdb
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Extras.xml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Platform.pdb
+C:\gr\git learning\gitskills\gitskills\WpfApp3\bin\Debug\GalaSoft.MvvmLight.Platform.xml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.csprojAssemblyReference.cache
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\View\MainWindow.g.cs
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\View\TotalCostView.g.cs
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\App.g.cs
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest_MarkupCompile.cache
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest_MarkupCompile.lref
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\App.baml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\View\MainWindow.baml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\Resources\DataTemplates.baml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\Resources\Resources.baml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\View\TotalCostView.baml
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.g.resources
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.Properties.Resources.resources
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.csproj.GenerateResource.cache
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.csproj.CoreCompileInputs.cache
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.csproj.CopyComplete
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.exe
+C:\gr\git learning\gitskills\gitskills\WpfApp3\obj\Debug\MvvmTest.pdb
