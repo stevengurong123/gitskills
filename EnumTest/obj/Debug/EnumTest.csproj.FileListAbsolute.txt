@@ -1,0 +1,7 @@
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\bin\Debug\EnumTest.exe.config
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\bin\Debug\EnumTest.exe
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\bin\Debug\EnumTest.pdb
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\obj\Debug\EnumTest.csprojAssemblyReference.cache
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\obj\Debug\EnumTest.csproj.CoreCompileInputs.cache
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\obj\Debug\EnumTest.exe
+C:\gr\old\MvvmTest\MvvmTest\EnumTest\obj\Debug\EnumTest.pdb

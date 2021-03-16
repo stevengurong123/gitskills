@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<TotalCost xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Year>2020</Year>
+  <MonthList>
+    <MonthCost>
+      <Month>April</Month>
+      <CostMunber>100</CostMunber>
+      <CostDate>2021-02-26T07:59:26.3186217+08:00</CostDate>
+	  <Description>ali</Description>
+    </MonthCost>
+    <MonthCost>
+      <Month>February</Month>
+      <CostMunber>222</CostMunber>
+      <CostDate>2021-02-26T07:59:26.3196233+08:00</CostDate>
+	  <Description>pay</Description>
+    </MonthCost>
+  </MonthList>
+</TotalCost>
