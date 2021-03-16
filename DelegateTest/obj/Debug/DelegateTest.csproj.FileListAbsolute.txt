@@ -1,0 +1,7 @@
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\bin\Debug\DelegateTest.exe.config
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\bin\Debug\DelegateTest.exe
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\bin\Debug\DelegateTest.pdb
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\obj\Debug\DelegateTest.csprojAssemblyReference.cache
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\obj\Debug\DelegateTest.csproj.CoreCompileInputs.cache
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\obj\Debug\DelegateTest.exe
+C:\Users\19124\Desktop\mvvm\gitskills\DelegateTest\obj\Debug\DelegateTest.pdb
