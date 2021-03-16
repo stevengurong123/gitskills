@@ -44,7 +44,7 @@
                 <WrapPanel>
                     <Button Foreground="Red" Template="{StaticResource btn1}" x:Name="button" Content="Start"  VerticalAlignment="Top" Width="81" Height="33" Command="{Binding Start}"/>
                     <Button x:Name="button1" Content="Stop"   VerticalAlignment="Top" Width="83" Height="33" Command="{Binding Stop}" CommandParameter="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}"/>
-                    <TextBlock x:Name="textBlock" Text="{Binding TimeText}" Background="Gray" Foreground="White" TextWrapping="Wrap"  VerticalAlignment="Top" Height="39" Width="267"/>
+                    <TextBlock x:Name="textBlock" Text="{Binding TimeText}" Background="Gray" Foreground="White" TextWrapping="Wrap"  VerticalAlignment="Top" Height="39" Width="266"/>
                 </WrapPanel>
                 <Rectangle Height="40" Width="{Binding RelativeSource={RelativeSource Self}, Path=Height}"></Rectangle>
                 <!--<Canvas Name="Parent0">
