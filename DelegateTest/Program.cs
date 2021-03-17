@@ -111,7 +111,7 @@ namespace DelegateTest
             Func<int, int, bool> sort1 = delegate (int a, int b) { return a - b > 0; };
             SimpleSort<int>.TestDelegate((Func<int, int, bool>)delegate (int a, int b) { return a - b > 0; });
 
-            var patterns =
+            Func<int, int, bool>[] patterns =
             {
                 (xx,y) => { return true; },
                 (xx,y) => { return true; }
