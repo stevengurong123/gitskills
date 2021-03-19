@@ -10,6 +10,7 @@ namespace DelegateTest
 {
     public static class SimpleSort<T> where T : IComparable, IFormattable, IConvertible, IComparable<Int32>, IEquatable<Int32>
     {
+
         /// <summary>
         /// array is a reference type
         /// </summary>

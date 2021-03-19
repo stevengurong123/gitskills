@@ -1,0 +1,7 @@
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\bin\Debug\TupleSelfLearning.exe.config
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\bin\Debug\TupleSelfLearning.exe
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\bin\Debug\TupleSelfLearning.pdb
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\obj\Debug\TupleSelfLearning.csprojAssemblyReference.cache
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\obj\Debug\TupleSelfLearning.csproj.CoreCompileInputs.cache
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\obj\Debug\TupleSelfLearning.exe
+C:\gr\git learning\gitskills\gitskills\TupleSelfLearning\obj\Debug\TupleSelfLearning.pdb
