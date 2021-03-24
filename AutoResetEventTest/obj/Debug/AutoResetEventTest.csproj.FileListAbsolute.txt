@@ -1,0 +1,7 @@
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\bin\Debug\AutoResetEventTest.exe.config
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\bin\Debug\AutoResetEventTest.exe
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\bin\Debug\AutoResetEventTest.pdb
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\obj\Debug\AutoResetEventTest.csprojAssemblyReference.cache
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\obj\Debug\AutoResetEventTest.csproj.CoreCompileInputs.cache
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\obj\Debug\AutoResetEventTest.exe
+C:\gr\git learning\gitskills\gitskills\AutoResetEventTest\obj\Debug\AutoResetEventTest.pdb
